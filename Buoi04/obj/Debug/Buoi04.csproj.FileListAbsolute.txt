@@ -1,0 +1,7 @@
+D:\FILE SV\PTTKTT\Buoi04\Buoi04\bin\Debug\Buoi04.exe.config
+D:\FILE SV\PTTKTT\Buoi04\Buoi04\bin\Debug\Buoi04.exe
+D:\FILE SV\PTTKTT\Buoi04\Buoi04\bin\Debug\Buoi04.pdb
+D:\FILE SV\PTTKTT\Buoi04\Buoi04\obj\Debug\Buoi04.csproj.AssemblyReference.cache
+D:\FILE SV\PTTKTT\Buoi04\Buoi04\obj\Debug\Buoi04.csproj.CoreCompileInputs.cache
+D:\FILE SV\PTTKTT\Buoi04\Buoi04\obj\Debug\Buoi04.exe
+D:\FILE SV\PTTKTT\Buoi04\Buoi04\obj\Debug\Buoi04.pdb
